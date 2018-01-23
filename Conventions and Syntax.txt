@@ -1,0 +1,5 @@
+I'm still new to this whole coding thing, but I'll give it my best effort to explain what I know. 
+Conventions and syntax are like boxes within the code that contain information in Unity.
+You have your main mono box and inside that box are your class boxes and inside those boxes are function boxes. 
+You must use curly brackets to complete your box and a semi colen to end sentences. 
+That's about the basis of what I know.  
