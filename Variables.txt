@@ -1,0 +1,12 @@
+Variables are statement like commands that are writen in the class box. They can public or private and they must be given a name to function. 
+Data types are used to create strings of text within a variable. 
+Some main data types are int (integers), float (numbers after a decimal point),and stings (spaking text including quotations).
+{
+public string myName = "Bronson";
+private inte myAge = 23;
+public float speed = 5.5f;
+public int health = 100; 
+private int maxAmmoCount = 100;
+void Start()
+
+}
