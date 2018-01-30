@@ -1,0 +1,19 @@
+If statements are the lines within the code that tell if something is true or false.
+Or you could write "if then" "do this" kind of statements
+If Statements must be writen in the function box within the class box.
+
+void onMouseDown ()
+	if (1 + 1 = 2)
+		print("ture");
+
+	if (Dog)
+		print("bark");
+
+	if ("Hello" == "Hello")
+		print("true")
+
+	if (Cat)
+		print("meow")
+
+	if (number < 5)
+		print("true")
