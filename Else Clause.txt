@@ -1,0 +1,6 @@
+Else clauses are used within "if" statements to help the program switch between two more more options.
+More appropriately, true and false statements to keep things simple. 
+The door is shut and you must have the "key"
+If you have the key, the door may open
+if not, the door stays shut.
+I'll write more later, I need to turn this in 
