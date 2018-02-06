@@ -1,0 +1,12 @@
+Logical Operators are symbols that signify different math operations such as 
+less than, greater than, equal to, or not equal to. 
+if (A > B)
+if (A < B)
+if (A == B)
+if (A != B)
+if (A <= B)
+if (A >= B)
+if (A + B)
+if (A - B)
+if (A * B)
+if (A / B)
