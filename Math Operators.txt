@@ -1,1 +1,15 @@
-Promise I'll write tomorrow, just have to hand this in before it's too late.
+Math Operators with coding work the same as regular math operators. 
+They help write if/then statements with integers.
+public int A = 10
+public int B = 10
+public int C = 10
+
+	A + B == C
+	A += B == C
+	A -= B == C
+	A - B == C
+	A * B == C
+	A *= B == C
+	A / B == C
+	A /= B == C
+	
