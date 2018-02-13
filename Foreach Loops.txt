@@ -1,0 +1,6 @@
+Foreach Loops are written like the english language, but very simplified to a point where you're using
+four words to describe what you want the code to do.
+You'd write what system you want it from first, 
+then specify exactly what box
+which then follows up with the word in specifying the other box you'd what the information from.
+foreach (var player in Players)
