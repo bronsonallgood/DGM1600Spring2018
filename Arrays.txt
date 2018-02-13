@@ -1,0 +1,5 @@
+Arrays are like storages for certain elements that can hold a set number of those specific elements.
+You must specify what elements you want present using the [] keys. 
+public string[] Players;
+public int[] HighScores;
+public PowerUP[] Powerups;
