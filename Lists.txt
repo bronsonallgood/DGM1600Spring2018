@@ -1,0 +1,18 @@
+A list is used when you don't know how many things you are going to put into an array ahead of time.
+
+public class BadGuy
+	public string name;
+	public int power;
+
+	public BadGuy(string newName, int newPower)
+		
+		name = newName;
+		power = newPower;
+
+	void Start ()
+		List<BadGuy> badguys = new List<BadGuy>();
+
+		badguys.Add (new BadGuy("Violet", 50));
+		badguys.Remove
+
+you can add or remove an item from this list of coding by adding "add" or "remove" 
