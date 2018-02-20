@@ -1,0 +1,37 @@
+Switch Statements are used like if then else if statements
+but rather then having the program run the entire list 
+it will just run the list until it finds what it needs to then stops (or breaks).
+void Start () {
+	switch (UserName)
+	{
+		case "Password";
+			print("Password is correct.");
+			break;
+
+		case "LevelUp":
+			print("You win!!");
+			break;
+
+		case "Black Panther":
+			print("Made over 200 million this weekend!");
+			break;
+		
+			default:
+			print("Why don't you just tell me what movie you want to watch");
+			break;
+
+		case "Cats":
+			print("Cats aren't so great");
+			break;
+
+		case "Dogs":
+			print("Dogs are much better");
+			break;
+ 
+		case "Video Games":
+			print("Video games are alright.");
+			break;
+
+		case "Movies":
+			print("Scott Pilgrim vs The World is a good movie!");
+			break;
