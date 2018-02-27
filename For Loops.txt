@@ -1,0 +1,9 @@
+Loops are essentially arrays but without the giant list you would normally provide.
+
+void Start () {
+	
+	for (int i = 0; i < Keys.Length; i++)
+	{
+		print(Keys[i]);
+	}
+}
