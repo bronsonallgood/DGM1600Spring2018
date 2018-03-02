@@ -1,0 +1,17 @@
+A function is a command you want the code to complete and the parameter goes inside 
+the function to help complete the operation.
+
+int myInt = 5;
+
+void Start() {
+	myInt=55
+	Debug.Log (myInt * 2);
+}
+
+int MultiplyByTwo(int number){
+	int ret; 
+
+	ret = number * 2;
+
+	return ret;
+}
