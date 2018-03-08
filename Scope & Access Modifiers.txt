@@ -1,0 +1,8 @@
+It is a function that can be accessed by other scripts.
+The script must be set public, otherwise the script cannot be used by other scripts.
+	public int alpha = 5;
+
+	public int beta = 0;
+	public int gamma = 5;
+Like the calculator we created in class, we can limit a text space to only be intigers
+to reduce problems if someone were to try and put anthing else. 
