@@ -1,0 +1,6 @@
+It's basiclly a function, but instead of writing "void" and getting nothing
+we write a diferent function word like "int" and then we will get somethign in return.
+
+public int AddNumbers(int number1, int number2)
+public int result = number1 + number2;
+return result;
