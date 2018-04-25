@@ -22,6 +22,7 @@ public class EnemyMove : MonoBehaviour
             if (hit.collider.tag == "Player")
             {
                 Destroy(hit.collider.gameObject);
+                FindObjectOfType<GameManager>().EndGame();
             }
         }
     }
