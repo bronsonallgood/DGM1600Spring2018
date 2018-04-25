@@ -1,12 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EndTrigger : MonoBehaviour {
 
     public GameManager gameManager;
 
-    void OnTriggerEnter ()
+    void OnTriggerEnter2D ()
     {
         gameManager.CompleteLevel();
     }
